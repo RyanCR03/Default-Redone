@@ -22,6 +22,6 @@ Use SEUS/Old PBR Material format.
  ## Links
 
 ### [Planet Minecraft Page](https://www.planetminecraft.com/texture-pack/default-redone/)
-### [Curseforge Page](https://www.curseforge.com/minecraft/texture-packs/default-redone
+### [Curseforge Page](https://www.curseforge.com/minecraft/texture-packs/default-redone)
 
  
