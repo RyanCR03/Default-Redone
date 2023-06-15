@@ -1,5 +1,5 @@
 # Default-Redone
-![Default Redone Banner](https://imgur.com/A3UV6je.gif)
+![Default Redone Banner](https://github.com/RyanCR03/Default-Redone/blob/main/defredanim.png)
 
 This is Default Redone. There are a lot of features in this resource pack. Too many features to list... The screenshots show very little compared to everything in the pack, so you should check it out yourself!
 
