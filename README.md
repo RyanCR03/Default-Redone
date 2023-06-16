@@ -9,7 +9,8 @@ This resource pack uses assets from other resource packs, but also uses original
 
 ## Notes
 
-### [Optifine is Required](https://optifine.net/downloads)
+https://github.com/RyanCR03/Default-Redone/blob/main/Optifine.gif
+### [Optifine is Required (For Now)](https://optifine.net/downloads)
 
 
 
