@@ -8,8 +8,6 @@ This resource pack uses assets from other resource packs, but also uses original
  
 
 ## Notes
-
-https://github.com/RyanCR03/Default-Redone/blob/main/Optifine.gif
 ### [Optifine is Required (For Now)](https://optifine.net/downloads)
 
 
