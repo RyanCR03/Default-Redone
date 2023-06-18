@@ -5,26 +5,25 @@ This is Default Redone. There are a lot of features in this resource pack. Too m
 
 This resource pack uses assets from other resource packs, but also uses original assets made by myself. Most if not all assets in this pack not created by me are either from Minecraft, or edited in some way by me.
 
- 
+<img src="https://github.com/RyanCR03/Default-Redone/blob/main/DefredCraftingTable.png" width="256">
 
 ## Notes
 ### [Optifine is Required (For Now)](https://optifine.net/downloads)
 
 
 
-
-This Resource Pack Supports BSL Advanced Materials.
+This Resource Pack Supports BSL Advanced Materials (V4 and Earlier).
 
 Use SEUS/Old PBR Material format.
 
  
  ## Links
 
-### [Planet Minecraft Page](https://www.planetminecraft.com/texture-pack/default-redone/)
-### [Curseforge Page](https://www.curseforge.com/minecraft/texture-packs/default-redone)
+<a href="https://www.planetminecraft.com/texture-pack/default-redone/"><img src="https://github.com/RyanCR03/Default-Redone/blob/main/DefredCraftingTableLogoPMC.png" width="256"/></a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/default-redone"><img src="https://github.com/RyanCR03/Default-Redone/blob/main/DefredCraftingTableLogoCurseforge.png" width="256"/></a>
 
 ## Notice
-![image](https://github.com/RyanCR03/Default-Redone/assets/32957560/75704163-7256-4411-a705-1be30adc665e)
+![image](https://github.com/RyanCR03/Default-Redone/blob/main/defredv5.png)
 
 I am currently working on the newest major Default Redone update. This will be a major update to the resource pack since it will include the removal of assets made by other people, official support for Optifine alternatives ([CIT Resewn](https://modrinth.com/mod/cit-resewn), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Animatica](https://modrinth.com/mod/animatica), [Continuity](https://modrinth.com/mod/continuity)), and full support for Minecraft 1.20.
 
