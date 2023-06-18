@@ -5,7 +5,7 @@ This is Default Redone. There are a lot of features in this resource pack. Too m
 
 This resource pack uses assets from other resource packs, but also uses original assets made by myself. Most if not all assets in this pack not created by me are either from Minecraft, or edited in some way by me.
 
-<img src="https://github.com/RyanCR03/Default-Redone/blob/main/DefredCraftingTable.png" width="256">
+<img src="https://github.com/RyanCR03/Default-Redone/blob/main/DefredCraftingTable.png" width="128">
 
 ## Notes
 ### [Optifine is Required (For Now)](https://optifine.net/downloads)
